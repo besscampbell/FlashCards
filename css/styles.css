@@ -1,0 +1,12 @@
+.card-body-showing {
+  display: none;
+}
+
+p {
+  cursor: pointer;
+  color: black;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
